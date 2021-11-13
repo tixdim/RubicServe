@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RubicServer", "RubicServer\RubicServer.csproj", "{43D0E422-7E8D-4419-8316-2D157721E649}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43D0E422-7E8D-4419-8316-2D157721E649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43D0E422-7E8D-4419-8316-2D157721E649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43D0E422-7E8D-4419-8316-2D157721E649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43D0E422-7E8D-4419-8316-2D157721E649}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BACAFBF-860B-4A97-815E-DC0903C51999}
+	EndGlobalSection
+EndGlobal
